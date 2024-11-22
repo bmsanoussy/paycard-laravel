@@ -6,7 +6,7 @@ Ce projet démontre l'intégration de Paycard dans une application Laravel pour 
 
 Le diagramme suivant illustre le processus complet de paiement, de la sélection du produit jusqu'à la confirmation de la transaction :
 
-![Diagramme de séquence du paiement](docs/sequence-diagram.png)
+![Diagramme de séquence du paiement](./docs/sequence-diagram.PNG)
 
 ## Prérequis
 
